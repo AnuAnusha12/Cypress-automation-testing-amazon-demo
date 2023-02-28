@@ -9,7 +9,7 @@ Automation testing using cypress to test amazon website features like login, Sea
 - Add to cart button to store the products we want to purchase
 - Checkout button to complete transaction
 
-#Steps to Setup
+# Steps to Setup
 - Install NodeJS, Cypress
 - create a new project and type 'npx cypress open' in cmd at current folder path (This will create all required files to automate the process)
 - Write the test cases and proceed
